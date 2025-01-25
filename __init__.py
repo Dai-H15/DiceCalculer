@@ -1,1 +1,1 @@
-from DiceCalculer.assets import DiceCalc, DiceData
+from DiceCalculor.assets import DiceCalc, DiceData
